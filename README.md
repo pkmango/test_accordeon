@@ -1,2 +1,2 @@
-# test_accordeon
+# Accordeon
 Тестовое задание. Меню - аккордеон.
